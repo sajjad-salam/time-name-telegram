@@ -1,0 +1,3 @@
+aiocron==1.8
+Pyrogram==2.0.106
+pytz==2022.1
